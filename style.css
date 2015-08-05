@@ -1,0 +1,15 @@
+.fondo {
+	background: url("imagenes/rural.jpg") no-repeat fixed;
+	background-size: cover;
+	height: 631px;
+	width: 100%;
+}
+
+ul {
+	display: inline-block;
+	color: white;
+	}
+
+li{
+	display: inline-block;
+}
